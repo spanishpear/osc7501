@@ -2,5 +2,7 @@
 name = "osc7501"
 version = "0.1.0"
 edition = "2024"
+description = "A WIP implementation of osc7501"
+license = "MIT"
 
 [dependencies]
